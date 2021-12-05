@@ -1,0 +1,6 @@
+name: rel-demo-app-rel-bff-account
+version : 1.0.0
+namespace : rel
+host: rel-demo-app-rel-bff-account-acc.apps.crc-testing
+image: registry.hub.docker.com/sgchub/demo-app-rel-bff-account:main-3cda026
+replicas: 2
