@@ -1,7 +1,7 @@
 apiVersion: v2
-name: acc-demo-app-rel-bff-account
+name: rel-demo-app-rel-bff-account
 version: 1.0.0
 appVersion: 1.0.0
-description: acc-demo-app-rel-bff-account
+description: rel-demo-app-rel-bff-account
 type: application
 
