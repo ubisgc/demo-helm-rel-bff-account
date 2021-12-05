@@ -47,7 +47,7 @@ spec:
           image: {{ .Values.image }}
           env:
             - name: "ACCOUNT_HOST"
-              value: "acc-demo-app-account.acc.srv.cluster.local"
+              value: "https://acc-demo-app-account"
       restartPolicy: Always
       terminationGracePeriodSeconds: 30
       dnsPolicy: ClusterFirst
